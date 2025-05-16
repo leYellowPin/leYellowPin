@@ -1,7 +1,7 @@
 ## Hi there 👋 Call me YellowPin
 > **A highschool student who loves game development & web designs**
 
-> **Languages**: GML, js, python.
+> **Languages**: GML, GDScript, js, python.
 
 > Made quite a number of **games**: https://the-yellow-pin.itch.io
 
