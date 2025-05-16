@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 Call me YellowPin
+> **A highschool student who loves game development & web designs**
+
+> **Languages**: GML, js, python.
+
+> Made quite a number of **games**: https://the-yellow-pin.itch.io
+
+> **Favorite games**: Geometry Dash
+
+> **Contact me at:**
+> + Discord: leyellowpin.
+> + Email: yellowpinprod@gmail.com
+> + Youtube: @YPprod1231
+
 
 <!--
 **leYellowPin/leYellowPin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
