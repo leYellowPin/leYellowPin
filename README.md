@@ -1,16 +1,25 @@
-## Hi there 👋 Call me YellowPin
-> **A highschool student who loves game development & web designs**
+# Hi there 👋 Call me YellowPin
 
-> **Languages**: GML, GDScript, js, python.
+## ABOUT ME
+**A highschool student who loves game development & web designs**
 
-> Made quite a number of **games**: https://the-yellow-pin.itch.io
+**Languages**: 
+> GML, GDScript, js, python.
 
-> **Favorite games**: Geometry Dash
+Made quite a number of **games**: https://the-yellow-pin.itch.io
 
-> **Contact me at:**
-> + Discord: leyellowpin.
-> + Email: yellowpinprod@gmail.com
-> + Youtube: @YPprod1231
+**Favorite games**: 
+> Geometry Dash
+
+**Favorite color**: 
+> `#FFFF00`
+
+## **CONTACT**
+Discord: `leyellowpin.`
+
+Email: `yellowpinprod@gmail.com`
+
+<a href="https://www.youtube.com/@YPprod1231"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="auto" height="32px"></img></a>
 
 
 <!--
