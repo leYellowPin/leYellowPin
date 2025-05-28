@@ -6,7 +6,9 @@
 **Languages**: 
 > GML, GDScript, js, python.
 
-Developed 14 **games** on Itch.io
+> Currently learning C.
+
+Developed **14 games** on **Itch.io**
 
 
 <a href="https://the-yellow-pin.itch.io"><img src="https://static.itch.io/images/badge-color.svg" width="auto" height="32px"></img></a>
