@@ -6,7 +6,10 @@
 **Languages**: 
 > GML, GDScript, js, python.
 
-Made quite a number of **games**: https://the-yellow-pin.itch.io
+Developed 14 **games** on Itch.io
+
+
+<a href="https://the-yellow-pin.itch.io"><img src="https://static.itch.io/images/badge-color.svg" width="auto" height="32px"></img></a>
 
 **Favorite games**: 
 > Geometry Dash
@@ -20,7 +23,7 @@ Discord: `leyellowpin.`
 Email: `yellowpinprod@gmail.com`
 
 <a href="https://www.youtube.com/@YPprod1231"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="auto" height="32px"></img></a>
-
+<a href="https://the-yellow-pin.itch.io"><img src="https://static.itch.io/images/app-icon.svg" width="auto" height="32px"></img></a>
 
 <!--
 **leYellowPin/leYellowPin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
